@@ -7,4 +7,5 @@ void main()
   printf("Enter Second Number :");
   scanf("%d",&b);
   printf("Sum of First Number: %d and Second Number: %d is :%d",a,b,a+b);
+  printf("\n");
 }
